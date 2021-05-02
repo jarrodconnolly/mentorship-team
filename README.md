@@ -1,1 +1,3 @@
-# mentorship-team
+# Node.js Mentorship Program
+
+Joining the mentorship team appeals to me as my interest in the various working groups behind Node.js and OpenJS has grown. It has been very rewarding writing open-source software and contributing technically to various projects over the years. I am looking to give something back, this brought me to learn more about the governance and groups behind the projects. The mentorship group would be a great place for me to start, I would be able to learn more about how the working groups operate and hopefully use my technical skills and experience to assist the group. I believe that mentorship is very important, and it is a big part of my professional career as an engineering leader. I am excited to help this team succeed and see more people welcomed into the Node.js community.
